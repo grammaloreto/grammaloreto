@@ -1,4 +1,4 @@
-### 🌊 Hola! I'm Jose Luis
+### Hola! I'm Jose Luis 🐡
 
 I'm affiliated with the University of Vigo, working on **Coastal Digital Twins** with a focus on **sea level data integration** using satellite altimetry (SWOT), ocean models (IBI), and in situ observations.
 
